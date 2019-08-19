@@ -69,3 +69,5 @@ Largest rectangular submatrix
 Maximum sum rectangle in 2d matrix
 
 Largest area rectangular submatrix with equal number of 0s and 1s
+
+Product Array Puzzle
